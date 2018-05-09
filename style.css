@@ -8,6 +8,7 @@ body{
     background:#777;
     width:960px;
     font-size:18px;
+    margin:auto;
 }
 
 header,nav,section,aside,footer{
@@ -26,6 +27,7 @@ article{
 
 header{
     padding: 30px;
+    margin-top:15px;
     margin-bottom: 10px;
     width:900px;
 } 
